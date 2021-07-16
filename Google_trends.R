@@ -4,7 +4,6 @@ library(ggplot2)
 library(gganimate)
 library(tidyverse)
 library(gifski)
-library(magick)
 
 ###All codes below can be wrapped into a single function, here displayed step by step
 
