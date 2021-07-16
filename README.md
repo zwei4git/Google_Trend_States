@@ -11,4 +11,4 @@ search queries within the region (over a certain time period). The region with t
 other countries are scaled down accordingly."
 ### Therefore no need for population adjustment
 
-Tools: google trend API (gtrendsR package), gganimate
+## Tools: google trend API (gtrendsR package), gganimate
